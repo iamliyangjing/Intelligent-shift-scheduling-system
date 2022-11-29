@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Intelligent-shift-scheduling-system.iml" filepath="$PROJECT_DIR$/Intelligent-shift-scheduling-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isss-common/isss-common.iml" filepath="$PROJECT_DIR$/isss-common/isss-common.iml" />
+    </modules>
+  </component>
+</project>
